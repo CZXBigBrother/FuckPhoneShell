@@ -1,4 +1,4 @@
-# FuckPhoneShell
+# 根据用户的手机壳来改变软件主题颜色解决方案
 # 先看看网上别家的大神解决方案(太高端了 哈哈哈搞不定呀)
 ![73831533188946_.pic_hd.jpg](https://upload-images.jianshu.io/upload_images/3258209-8055006c646a673e.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/500)
 而且实际拿同事的眼睛做的过实验,感觉反光率好低
