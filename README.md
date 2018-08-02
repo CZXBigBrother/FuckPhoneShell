@@ -7,7 +7,7 @@
 ## 本来想获取图片的无数个点做一个渐变色,结果出来并不理想
 ## 看看失败的作品
 ![image.png](https://upload-images.jianshu.io/upload_images/3258209-2ca9fac0e0422324.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/250)
-## wtk 什么鬼东西.....继续优化
+## wtf 什么鬼东西.....继续优化
 ![WechatIMG144.jpeg](https://upload-images.jianshu.io/upload_images/3258209-9667eb5260c72858.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/200)
 ![WechatIMG143.jpeg](https://upload-images.jianshu.io/upload_images/3258209-c103dffd6b78b7a6.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/200)
 ## 不行不行 什么鬼东西 ,果断放弃渐变效果
